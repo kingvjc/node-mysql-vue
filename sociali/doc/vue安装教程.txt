@@ -1,0 +1,5 @@
+$ npm install -g vue-cli 
+$ vue init webpack vue-admin 
+$ cd vue-admin 
+$ npm install
+$ npm run dev
