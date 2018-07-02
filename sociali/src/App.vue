@@ -28,6 +28,7 @@ export default {
     <pl-header></pl-header>
     <div class="content">
         <router-view></router-view>
+        1111111
     </div>
     <loading></loading>
 </div>
