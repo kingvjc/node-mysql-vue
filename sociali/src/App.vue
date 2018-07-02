@@ -28,7 +28,7 @@ export default {
     <pl-header></pl-header>
     <div class="content">
         <router-view></router-view>
-        111111155
+        23232355555sssss
     </div>
     <loading></loading>
 </div>
